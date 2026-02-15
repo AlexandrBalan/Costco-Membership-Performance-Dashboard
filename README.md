@@ -4,7 +4,7 @@ This project is an interactive Power BI dashboard designed to analyze and visual
 
 The dashboard allows users to monitor key metrics such as total members, renewal rate, revenue trends, and regional performance. It includes interactive filters and drill-down features so users can explore data by region, state, and membership type.
 
-Key Features
+**Key Features**
 
 Interactive KPI cards for Total Members, Renewal Rate, and Revenue
 
@@ -18,7 +18,7 @@ Data modeling using SQL and calculated measures using DAX
 
 Built using dummy membership data for demonstration purposes
 
-Tools Used
+**Tools Used**
 
 Power BI (dashboard development and visualization)
 
@@ -26,6 +26,6 @@ SQL (data preparation and structure)
 
 DAX (calculated measures and KPI logic)
 
-Purpose
+**Purpose**
 
 This project demonstrates my ability to work with data, build interactive dashboards, and present insights in a way that supports data-driven decision making. It also reflects real-world business scenarios similar to membership-based retail environments.
