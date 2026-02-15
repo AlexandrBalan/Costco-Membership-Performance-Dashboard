@@ -29,3 +29,6 @@ DAX (calculated measures and KPI logic)
 **Purpose**
 
 This project demonstrates my ability to work with data, build interactive dashboards, and present insights in a way that supports data-driven decision making. It also reflects real-world business scenarios similar to membership-based retail environments.
+
+
+<img width="1426" height="795" alt="Image" src="https://github.com/user-attachments/assets/0c80cc66-99cb-43ef-abc0-356d4c879098" />
